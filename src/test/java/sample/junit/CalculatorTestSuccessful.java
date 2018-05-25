@@ -45,7 +45,7 @@ public class CalculatorTestSuccessful {
         System.out.println("----- START OF Verify function testSum_2 in CalculatorTestSuccessful class -------------");
         int result = calculator.sum(5, 4);
 
-        Assert.assertEquals(7, result);
+        Assert.assertEquals(9, result);
         System.out.println("----- END OF Verify function testSum_2 in CalculatorTestSuccessful class -------------");
     }
 
